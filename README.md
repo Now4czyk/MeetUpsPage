@@ -1,5 +1,5 @@
 # MeetUpsPage
-WebApp that shows available meetups
+Web app, which shows available meetups. Created to practise Next.js and MongoDB
 
 # Technologies 
 - ReactJS
