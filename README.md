@@ -6,7 +6,7 @@ Web app, which shows available meetups. Created to practise Next.js and MongoDB
 - NextJS
 - MongoDB
 
-# How to run
+# To run locally
 Type in terminal
 ```
 npm install
